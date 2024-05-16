@@ -1,4 +1,5 @@
 import 'dart:ui';
+
 import 'package:flutter/material.dart';
 
 class InputConfig {
@@ -17,6 +18,7 @@ class InputConfig {
   });
 }
 
+// Define your input configurations here
 InputConfig interestInputConfig = InputConfig(
   label: 'Rate of Interest:',
   textColor: Colors.black,
