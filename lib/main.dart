@@ -1,4 +1,4 @@
-import 'package:classico/screen/calculator_activity.dart';
+import 'package:compound_interest/screen/calculator_activity.dart';
 import 'package:flutter/material.dart';
 
 void main() {
